@@ -6,7 +6,7 @@ import time
 import threading
 
 # Укажите токен вашего бота
-TELEGRAM_BOT_TOKEN = '7473288953:AAFBvCCsckJscNyIEMINrFROCd97XGshpQg'
+TELEGRAM_BOT_TOKEN = '----------------------------------------------'
 
 # Создаем объект бота
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
